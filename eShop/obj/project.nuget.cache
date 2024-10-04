@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgYm3V0YI6JH1Sv7LMA39972YNvHlI5TFwvTc8tv9C8gVw70smyHkILtJV84S/uAEPCsqh/pd4WhxOaTVU1BWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miha1\\Desktop\\eShop\\eShop\\eShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miha1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\miha1\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\miha1\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512",
+    "C:\\Users\\miha1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\miha1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\miha1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\miha1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
